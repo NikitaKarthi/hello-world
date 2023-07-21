@@ -6,5 +6,3 @@ This repository is built step by step in the tutorial.
 
 Playing with github
 Experimenting with pull requests
-
-I am going to make a push.
